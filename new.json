@@ -1,0 +1,9 @@
+
+{
+    "student":{  "name":"Vika",
+	             "lastName":"Dziadovich",
+		         "patronymic":"Viktorovna",
+ 		         "pets":null,
+		         "salary":300
+}
+}
