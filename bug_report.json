@@ -1,1 +1,14 @@
-
+{
+    "bug_report":{ 
+                    "summary":"Login_Error_messages_in_the_login_form_are_displayed_in_England",
+                    "environment":"All_browsers/devices",
+                    "severity":"major",
+                    "steps_to_reproduse":["open_front_end_https://www.test-sklep.be:8443/",
+                                          "follow_inloggen_link",
+                                          "fill_required_fields_with_invalid_data",
+                                          "click_inloggen_button",
+                                          "pay_attention-to_error-messages"],
+                   "actual_result":"Error_messages_in_the_login_form_are_displayed_in_English",
+                   "expected_result":"Error_messages_in_the_login_form_are_displayed_in_the_chosen_language"}
+                
+}
