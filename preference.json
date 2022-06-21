@@ -1,9 +1,9 @@
-{
-    "preference":{
+{	 "Name": "Vika",
+	 "favorite":{ 
 		     "movie": "The Gentlmen",
-		     "serial": "The Great",
+		     "serial": "Brassic",
 		     "food": "seafood",
-		     "time_of_the_year": "summer",
-		     "visit": "USA"
+		     "time of year": "summer",
+		     "countryvisit": "USA"}
 }
-}
+

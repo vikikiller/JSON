@@ -1,9 +1,10 @@
 {
-	"QA_skills":[
+	"Name": "Course QA",
+	"Skills learned in the course": {
 		  "Creating documentation",
 		  "Understanding the testing process",
 		  "Composing defect reports",
 		  "Automating software tests",
-		  "Understanding programming languages"]
- }
+		  "Understanding programming languages"}
+}
 

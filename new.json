@@ -1,9 +1,10 @@
+	
+let person = {"student":[
+	    "first name":"Vika",
+            "last name":"Dziadovich",
+            "patronymic":"Viktorovna",
+            "age":28,
+            "pets":0,
+            "expectedsalary": 500 "dollars" ]
+}
 
-{
-    "student":{  "name":"Vika",
-	             "lastName":"Dziadovich",
-		         "patronymic":"Viktorovna",
- 		         "pets":null,
-		         "salary":300
-}
-}
